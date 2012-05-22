@@ -1,3 +1,7 @@
+<script>
+alert(1);
+</script>
+
 [jQuery](http://jquery.com/) - New Wave JavaScript
 ==================================================
 
