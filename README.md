@@ -5,7 +5,7 @@ alert(1);
 [jQuery](http://jquery.com/) - New Wave JavaScript
 ==================================================
 
-* [<font color="#cc0000">`dddd`</font>](http://somewhere)
+* [<font color="#cc0000">`dddd *`</font>](http://somewhere)
 * [`eeee`](http://somewhere)
 
 
