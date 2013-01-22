@@ -8,8 +8,9 @@ alert(1);
 * **[<font color="#cc0000">`dddd *`</font>]**(http://somewhere)
 * <font color="#cc0000">`dddd *`</font> <font color="#cc0000">dddd *</font>
 * **[`eeee`](http://somewhere)**
-* **[`eeee`]**(http://somewhere)
 * [**`eeee`**](http://somewhere)
+* [`eeee`](http://somewhere)
+* [`eeee`](http://somewhere)
 
 
 What you need to build your own jQuery
